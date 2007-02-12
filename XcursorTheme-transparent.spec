@@ -1,5 +1,5 @@
 Summary:	A fully transparent (invisible) X cursor theme
-Summary(pl):	Ca≥kowicie przezroczysty (niewidzialny) motyw kursora X
+Summary(pl.UTF-8):   Ca≈Çkowicie przezroczysty (niewidzialny) motyw kursora X
 Name:		XcursorTheme-transparent
 Version:	0.1.1
 Release:	1
@@ -20,11 +20,11 @@ the theme provides an effective and flexible way to hide the X11
 Cursor. This kind of behaviour maybe required on Handheld or embedded
 computers running the X Window System.
 
-%description -l pl
-Ten pakiet zawiera ca≥kowicie przezroczysty motyw kursora X. Uøycie
-tego motywu daje efektywny i elastyczny sposÛb ukrycia kursora X11.
-Takie zachowanie moøe byÊ wymagane na komputerach kieszonkowych czy
-wbudowanych z dzia≥aj±cym systemem X Window.
+%description -l pl.UTF-8
+Ten pakiet zawiera ca≈Çkowicie przezroczysty motyw kursora X. U≈ºycie
+tego motywu daje efektywny i elastyczny spos√≥b ukrycia kursora X11.
+Takie zachowanie mo≈ºe byƒá wymagane na komputerach kieszonkowych czy
+wbudowanych z dzia≈ÇajƒÖcym systemem X Window.
 
 %prep
 %setup -q -n xcursor-transparent-theme-%{version}
