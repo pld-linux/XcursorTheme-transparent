@@ -1,5 +1,5 @@
 Summary:	A fully transparent (invisible) X cursor theme
-Summary(pl.UTF-8):   Całkowicie przezroczysty (niewidzialny) motyw kursora X
+Summary(pl.UTF-8):	Całkowicie przezroczysty (niewidzialny) motyw kursora X
 Name:		XcursorTheme-transparent
 Version:	0.1.1
 Release:	1
